@@ -1,7 +1,4 @@
 # タイトル
-`ドキュメント最終更新 : yyyy/mm/dd`
-
-Copyright (c) 2024 NokonoKotlin(okoteiyu) Released under the MIT license(https://opensource.org/licenses/mit-license.php)
 
 
 ## ライセンス
